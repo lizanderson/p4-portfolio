@@ -32,8 +32,9 @@ figure img {
   position: absolute;
   bottom: -120px;
   width: 1000px;
+  text-align: center;
   background: url("../img/escheresque_ste.png");
-  margin-left: 1000px;
+  margin-left: 800px;
 }
 
 .gallery .controls img {
