@@ -33,7 +33,7 @@ figure img {
   bottom: -120px;
   width: 1000px;
   background: url("../img/escheresque_ste.png");
-  float: center;
+  margin-left: 1000px;
 }
 
 .gallery .controls img {
