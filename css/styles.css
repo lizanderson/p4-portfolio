@@ -1,8 +1,11 @@
 /* Your Website Styles */
+body {
+  background: url("../img/background.png");
+}
+
 figure img {
   height: 1000px;
 }
-
 
 /* Gallery Stying */
 .gallery .control-button {
@@ -15,9 +18,7 @@ figure img {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/*
-	Theme controls how everything looks in Gallery CSS.
-*/
+/* Theme controls how everything looks in Gallery CSS.*/
 .gallery {
   position: relative;
 }
@@ -30,10 +31,9 @@ figure img {
 .gallery .controls {
   position: absolute;
   bottom: -120px;
-  width: 100%;
+  width: 1000px;
   text-align: center;
   background: url("../img/escheresque_ste.png");
-  
 }
 
 .gallery .controls img {
@@ -45,7 +45,6 @@ figure img {
   margin: 0 .02em;
   transition: color .1s;
 }
-
 
 /* Show Grid */
 .showgrid {
