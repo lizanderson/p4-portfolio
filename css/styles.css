@@ -46,6 +46,7 @@ figure img {
 
 .gallery .controls img {
   border: 2px solid #899;
+  margin-right: 500px;
 }
 
 .gallery .control-button {
