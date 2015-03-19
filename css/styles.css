@@ -6,8 +6,8 @@ body {
 .me {
   background: red;
   width: 250px;
-  margin-left: 675px;
-  top: 500px;
+  margin-left: 650px;
+  padding-top: 500px;
 }
 
 figure img {
