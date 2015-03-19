@@ -3,7 +3,7 @@ body {
   background: url("../img/background.png");
 }
 
-.me {
+div {
   background: red;
   height: 250px;
 }
