@@ -36,7 +36,7 @@ figure img {
   background: url("../img/background.png");
 }
 .gallery .controls {
-  position: absolute;
+  position: center;
   bottom: -120px;
   width: 1000px;
   text-align: center;
