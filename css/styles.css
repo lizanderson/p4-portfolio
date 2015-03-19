@@ -36,12 +36,12 @@ figure img {
   background: url("../img/background.png");
 }
 .gallery .controls {
-  position: absolute;
+  
   bottom: -120px;
   width: 1000px;
   text-align: center;
   background: url("../img/escheresque_ste.png");
-  margin-right: 1250px;
+  margin-right: 250px;
 }
 
 .gallery .controls img {
