@@ -6,6 +6,7 @@ body {
 .me {
   width: 250px;
   margin-left: 650px;
+  display: inline;
 }
 
 figure img {
@@ -26,6 +27,7 @@ figure img {
 /* Theme controls how everything looks in Gallery CSS.*/
 .gallery {
   position: relative;
+  display: inline-block;
 }
 .gallery .item {
   height: 1000px;
