@@ -3,11 +3,7 @@ body {
   background: url("../img/background.png");
 }
 
-.chibi {
-  height: 200px;
-  width: 50px;
-  background: red;
-}
+
 
 figure img {
   height: 1000px;
