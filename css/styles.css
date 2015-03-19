@@ -5,6 +5,7 @@ body {
 
 .me {
   background: red;
+  width: 250px;
 }
 
 figure img {
