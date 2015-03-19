@@ -4,10 +4,8 @@ body {
 }
 
 .me {
-  background: red;
   width: 250px;
   margin-left: 650px;
-  padding-top: 500px;
 }
 
 figure img {
