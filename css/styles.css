@@ -6,6 +6,7 @@ body {
 .me {
   background: red;
   width: 250px;
+  float: left;
 }
 
 figure img {
@@ -54,5 +55,4 @@ figure img {
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
 }
